@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wiiem271
+- 👋 Hi, I’m Djebbi Wiem 
 - 🌱 I’m currently learning ML , NLP , Mlops , Deep
 - 📫 How to reach me wiem.djebbi@esprit.tn | wiemdjebbi9@gmail.com
 
